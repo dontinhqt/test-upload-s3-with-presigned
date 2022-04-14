@@ -1,0 +1,12 @@
+{
+    "name": "ymese-s3/file",
+    "description": "test upload s3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tinhnd"
+        }
+    ],
+    "require": {}
+}
